@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "rajesh",
+      "lastName": "H",
+      "email": "rajesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "firstName": "harry11111",
+      "lastName": "g",
+      "email": "harry@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "harry11111",
+      "lastName": "g",
+      "email": "suresh@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "salman2222",
+      "lastName": "salman2222",
+      "email": "salman@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "firstName": "salman2222",
+      "lastName": "salman2222",
+      "email": "salman@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "firstName": "asdfasdfasdf",
+      "lastName": "asdfadf",
+      "email": "adsfaf@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "expense": [
+    {
+      "expenseName": "home purchase new",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 3
+    },
+    {
+      "expenseName": "home purchase",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 5
+    },
+    {
+      "expenseName": "rrr",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 6
+    }
+  ],
+  "bookinfo": [
+    {
+      "bookid": "1",
+      "booktitle": "Test Book Name 1",
+      "bookdesc": "Test Book Desc 1",
+      "bookauthname": "Test Book auth 1",
+      "bookavl": "45",
+      "id": 1
+    },
+    {
+      "bookid": "4",
+      "booktitle": "Test Book Name 4",
+      "bookdesc": "Test Book Desc 4",
+      "bookauthname": "Test Book auth 4",
+      "bookavl": 14,
+      "id": 4
+    },
+    {
+      "bookid": "3",
+      "booktitle": "Test Book Name 3",
+      "bookdesc": "Test Book Desc 3",
+      "bookauthname": "Test Book auth 3",
+      "bookavl": "58",
+      "id": 5
+    }
+  ]
+}
